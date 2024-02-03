@@ -1,13 +1,6 @@
 # About me
 <!DOCTYPE html>
 <html>
-<head>
-<style>
-body {background-color: powderblue;}
-h2   {color: black;}
-p    {color: black;}
-</style>
-</head>
 <body>
   
 <h2>Laura Patari</h2>
