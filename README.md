@@ -1,4 +1,18 @@
-# simple-intro
+# About me
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: powderblue;}
+h2   {color: black;}
+p    {color: black;}
+</style>
+</head>
+<body>
+  
+<h2>Laura Patari</h2>
+<p>Moodle-based E-learning Content Developer and Indie Game Developer who wants to learn new things.</p>
 
-<h3>Laura Patari</h3>
-<caption>Moodle-based E-learning Content Developer and Indie Game Developer</caption>
+
+</body>
+</html>
